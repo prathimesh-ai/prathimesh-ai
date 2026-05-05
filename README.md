@@ -25,9 +25,6 @@ Local AI shopping agent built with Ollama + Python.
 Features: function calling, deterministic return policy logic, anti-hallucination techniques, streaming responses.  
 > *"Policy in Python, not in the LLM"* — zero hallucination on business rules.
 
-### 🌐 [HTML Portfolio](https://github.com/TobeyMarshall09/Html-portfolio)
-Personal portfolio built from scratch in HTML/CSS.
-
 ---
 
 ## 🛠️ Tech Stack
